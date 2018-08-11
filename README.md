@@ -1,6 +1,6 @@
 # What factors determine "Ownership" in IMF Programs?
 
-The business model of the International Monetary Fund is to be a lender of last resort to countries that have looming economic crises.  The IMF would lend to these countries, on the condition that the money will be used to restore balance in the system, and that macroeconomic objectives would be attained.
+The International Monetary Fund is a lender of last resort to countries that have looming economic crises.  The IMF would lend to these countries, on the condition that the money will be used to restore balance in the system, and that macroeconomic objectives would be attained.
 
 These "macroeconomic objectives" are not imposed, but rather, set in consultation with national authorities.  Country authorities then commit, or **own up** to the objectives agreed by the two parties.  **Ownership** is thus defined by the IMF as 
 > *"a willing assumption of responsibility for an agreed program of policies, by officials in a borrowing country who have the responsibility to formulate or carry out these policies, based on an understanding that the program is achievable and is in the country's own interest. (IMF, 2001)"*  
